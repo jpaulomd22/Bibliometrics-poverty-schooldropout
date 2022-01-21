@@ -1,2 +1,2 @@
 # Bibliometrics-poverty-schooldropout
-Este repositório foi concebido para que os scripts de comando em linguagem R, arquivos e bases de dados utilizados na bibliometria sobre evasão escolar e pobreza  estejam disponivéis de forma pública e colaborativa para aqueles que demonstratem interesse.
+Este repositório foi concebido para que os scripts de comando em linguagem R, arquivos e bases de dados utilizados na análise bibliométrica de artigo científico que trata da revisão da literatura sobre evasão escolar e pobreza estejam disponivéis de forma pública e colaborativa para aqueles que demonstrarem interesse em seguir o mesmo percurso metodológico, com a utilização do pacote bibliometrix e do módulo Biblioshiny do R Studio. 
